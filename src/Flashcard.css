@@ -1,6 +1,6 @@
 .flashcard {
-  width: 480px;
-  height: 280px;
+  width: 720px;
+  height: 420px;
   perspective: 1000px;
   cursor: pointer;
   user-select: none;
